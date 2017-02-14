@@ -1,0 +1,11 @@
+h1, h2 {
+  text-align: center;
+  color: orangered;
+  font-family: "Bauhaus 93", serif;
+}
+
+p {
+  font-family: "Bauhaus 93", serif;
+  text-align: center;
+  color: yellow;
+}
